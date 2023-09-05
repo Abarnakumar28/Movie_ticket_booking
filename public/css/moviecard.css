@@ -1,0 +1,7 @@
+.rating{
+    position: absolute;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-top: 10px;
+    padding: 5px 15px;
+}
